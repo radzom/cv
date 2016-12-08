@@ -1,6 +1,6 @@
 # Personal CV
 
-Latests version http://radzom.github.io/cv/
+Latests version https://radzom.github.io/cv/
 
 ## Getting things up and running
 - Install [Node.js](http://nodejs.org)
