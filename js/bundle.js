@@ -21454,7 +21454,7 @@ exports.default = {
       label: "Programmierkenntnisse",
       content: [{
         label: "C#",
-        description: "12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend Lösungen (Asp.Net MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer)."
+        description: "12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend Lösungen (ASP.NET MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer)."
       }, {
         label: "Javascript",
         description: "8+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner Frameworks/Bibliotheken wie React.js, Angular.js. Auch gut vertraut mit Node, ES6, Npm, Bower, Gulp, Webpack, Vue und Meteor."
@@ -21518,25 +21518,15 @@ exports.default = {
       from: "April 2016",
       to: "heute",
       content: "\n            Als Architekt bin ich f\xFCr die Definition und Weiterentwicklung der\n            Anwendungsarchitektur verantwortlich.\n            Mir obliegt die Evaluierung, Bewertung und Einf\xFChrung neuer Technologien\n            sowie die Leitung der Architektur-Gilde mit Vertretern der Scrum-Teams.\n            Ich bin erster Ansprechpartner bei Technologiekonflikten,\n            Implementationsproblemen und technischen Entscheidungen.\n            Sowohl die Weiterbildung der Softwareentwickler als auch die Beratung\n            und das Coaching dieser bei der Konzeption und Umsetzung geh\xF6ren zu\n            meinen Aufgaben.",
-      keywords: ["C#", "Asp.NET MVC", "Asp.NET WebAPI", "Open API", "OpenID Connect", "React.js", "Node.js", "GraphQL"]
+      keywords: ["C#", "ASP.NET MVC", "ASP.NET WebAPI", "Open API", "OpenID Connect", "React.js", "Node.js", "GraphQL"]
     }, {
       type: "work",
       company: "HOTEL DE GmbH",
       label: "Head of Websolutions",
-      from: "Juli 2011",
+      from: "Juli 2012",
       to: "März 2016",
-      content: "\n            Als Head betreute ich 2 Entwicklerteams mit je 4-6 Entwicklern.\n            ...folgt in k\xFCrze.\n\n            ",
-      // Meine Aufgaben
-      // bestanden neben der diziplinarischen Führung auch
-
-      // unter anderem
-
-      // Worked as a project lead/manager and/or developer in multiple projects.
-      // Responsibilities covered almost every aspect of software development
-      // from technology studies and architecture design to UX/IX design.
-      // Did also some client training and software methodology evaluations and
-      // helping putting them into daily project practices.
-      keywords: ["C#", ".Net", "WPF", "MVVM", "WCF", "Linq", "SQL", "Java"]
+      content: "\n            Als Head f\xFChrte ich 2 Entwicklerteams mit je 4-6 Entwicklern sowohl diziplinarisch als auch fachlich.\n            Meine Aufgaben umfassten unter anderem das gemeinsame Festlegen von Zielen f\xFCr das Team,\n            das Kommunizieren sowie das Pr\xFCfen des Erreichens dieser, das Interviewen potenzieller neuer Entwickler,\n            die Motivation der Mitarbeiter so wie der Umgang mit Konflikten.\n            ",
+      keywords: ["Scrum", "CleanCode", "Führung", "Konfliktmanagement", "Fortbildung", "Interviews"]
     }, {
       type: "work",
       company: "LapLabs UG",
@@ -21552,23 +21542,23 @@ exports.default = {
       from: "Oktober 2014",
       to: "heute",
       content: "\n            Konzeption und Implementierung eines generischen Metasearchers.\n            Hierf\xFCr wurden unter anderem eine Webanwendung f\xFCr Kunden, eine Webanwendung zur\n            Administration und zahlreiche Services zum Importieren, Scrapen, Kategorisieren,\n            Zusammenf\xFCgen und Aktualisieren der Produkte und Preise erstellt.\n            ",
-      keywords: ["C#", "Asp.NET MVC 5", "AngularJS", "Azure Cloud", "MongoDB", "Redis", "Bootstrap"]
+      keywords: ["C#", "ASP.NET MVC 5", "AngularJS", "Azure Cloud", "MongoDB", "Redis", "Bootstrap"]
     }, {
       type: "work",
       company: "HOTEL DE GmbH",
       label: "Senior Software Developer Teamlead",
       from: "Januar 2011",
-      to: "Juni 2011",
+      to: "Juni 2012",
       content: "\n            Als Teamlead f\xFChrte ich 4 Entwickler sowohl diziplinarisch als auch fachlich. Die Aufgaben\n            beinhalteten mehrere Produkte (Kunden-Webanwendung, Administration-Anwendung, Services) und\n            umfassten den gesamten Stack von der Datenbank bis zum UI.\n            ",
-      keywords: ["C#", "Asp.Net MVC 3", "Microsoft SQL", "IIS", "Javascript", "Jquery"]
+      keywords: ["Scrum", "C#", "ASP.NET MVC 3", "Microsoft SQL", "IIS", "Javascript", "jQuery"]
     }, {
       type: "work",
       company: "HOTEL DE GmbH",
       label: "Software Developer",
       from: "November 2004",
       to: "Dezember 2010",
-      content: "\n            Als Entwickler ...folgt in k\xFCrze.\n            ",
-      keywords: ["C++", "Java", "Spring", "Software architecture", "GIS", "Web services"]
+      content: "\n            Als Entwickler war ich f\xFCr die Konzeption, Realisierung und Pflege bestehender und neuer\n            Software-L\xF6sungen. Dies umfasste unter anderem die Anbindung von CRS- GDS- und Switch-Schnittstellen\n            an das HOTEL DE-Buchungssystem, die Entwicklung von Benutzerschnittstellen, Datenbank-Design und die\n            Weiterentwicklung der Fakturierungsl\xF6sung.\n            ",
+      keywords: ["C#", "ASP.NET Web Forms", "jQuery", "CSS", "Microsoft SQL"]
     }]
   }, {
     id: "interests",
