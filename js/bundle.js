@@ -21405,7 +21405,7 @@ exports.default = {
     name: "Gunnar Radzom",
     title: "Web und Cloud Enthusiast",
     picture: "pics/profile.jpg",
-    description: "Das <strong>Erstellen gro\xDFartiger Software</strong> ist es was mich antreibt und motiviert.\n      Mir geht es um den gesamten <strong>gemeinschaftlichen Prozess</strong> aus einer anf\xE4nglichen Idee\n      ein fertiges Software Produkt zu entwickeln.\n      <strong>Neue Technologien und Frameworks</strong> wecken in mir die Neugier und den Drang sie auszuprobieren."
+    description: "Das <strong>Erstellen gro\xDFartiger Software</strong> ist es, was mich antreibt und motiviert.\n      Mir geht es um den gesamten <strong>gemeinschaftlichen Prozess</strong>, aus einer anf\xE4nglichen Idee\n      ein fertiges Software Produkt zu entwickeln.\n      <strong>Neue Technologien und Frameworks</strong> wecken in mir die Neugier und den Drang, sie auszuprobieren."
   },
   sections: [{
     id: "profile",
@@ -21444,7 +21444,7 @@ exports.default = {
         description: "Muttersprache"
       }, {
         label: "Englisch",
-        description: "Verhandlungssicher"
+        description: "verhandlungssicher"
       }, {
         label: "Spanisch und Französisch",
         description: "Grundkenntnisse"
@@ -21454,29 +21454,29 @@ exports.default = {
       label: "Programmierkenntnisse",
       content: [{
         label: "C#",
-        description: "12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend Lösungen (ASP.NET MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer)."
+        description: "\n                12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend L\xF6sungen\n                (ASP.NET MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer)."
       }, {
         label: "Javascript",
-        description: "8+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner Frameworks/Bibliotheken wie React.js, Angular.js. Auch gut vertraut mit Node, ES6, Npm, Bower, Gulp, Webpack, Vue und Meteor."
+        description: "\n                8+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner\n                Frameworks/Bibliotheken wie React.js, Angular.js. Gute Kenntnisse in Node, ES6, Npm,\n                Bower, Gulp, Webpack, Vue und Meteor."
       }, {
         label: "HTML/CSS",
         description: "Sehr gutes Verständnis von HTML 5 and CSS 3."
       }, {
         label: "Andere Sprachen",
-        description: "C, C++, Java, Elm, Elixir"
+        description: "C, C++, Java, Elm, Elixir."
       }]
     }, {
       type: "list",
       label: "Tools / Methodiken",
       content: [{
         label: "Datenbanken",
-        description: "Viele Jahre Erfahrung mit unterschiedlichen SQL (MicroSoft, MySQL, Postgres) und NoSQL (Mongo, CouchDB, Redis) Datenbanken."
+        description: "\n                Langj\xE4hrige Erfahrung mit unterschiedlichen SQL (MicroSoft, MySQL, Postgres)\n                und NoSQL (Mongo, CouchDB, Redis) Datenbanken."
       }, {
         label: "Agilität",
         description: "Scrum, Kanban."
       }, {
         label: "Testautomatisierung",
-        description: "8+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests (Selenium)."
+        description: "\n                8+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests\n                (Selenium)."
       }, {
         label: "Versionskontrolle",
         description: "GIT, TFS."
@@ -21489,7 +21489,7 @@ exports.default = {
         description: "6+ Jahre Erfahrung in der Führung von Software Teams mit (5-10 Entwicklern)."
       }, {
         label: "Training",
-        description: "Erfahrung im halten von internen Entwicklerschulungen, Trainings und Vorträgen."
+        description: "Erfahrung im Halten von internen Entwicklerschulungen, Trainings und Vorträgen."
       }]
     }]
   }, {
@@ -21500,7 +21500,7 @@ exports.default = {
       label: "Diplom-Informatiker ",
       school: "Friedrich-Alexander-Universität Erlangen",
       graduated: "2004",
-      content: "\n            Abschluss mit der Note \"gut\". Die Schwerpunkte waren Computergrafik,\n            Kommunikationssysteme, Datenbanksysteme und Nebenfach Physiologie"
+      content: "\n            Abschluss mit der Note \"gut\". Die Schwerpunkte waren Computergrafik,\n            Kommunikationssysteme, Datenbanksysteme und das Nebenfach Physiologie."
     }, {
       type: "education",
       label: "Abitur",
@@ -21517,7 +21517,7 @@ exports.default = {
       label: "Senior Software Architect",
       from: "April 2016",
       to: "heute",
-      content: "\n            Als Architekt bin ich f\xFCr die Definition und Weiterentwicklung der\n            Anwendungsarchitektur verantwortlich.\n            Mir obliegt die Evaluierung, Bewertung und Einf\xFChrung neuer Technologien\n            sowie die Leitung der Architektur-Gilde mit Vertretern der Scrum-Teams.\n            Ich bin erster Ansprechpartner bei Technologiekonflikten,\n            Implementationsproblemen und technischen Entscheidungen.\n            Sowohl die Weiterbildung der Softwareentwickler als auch die Beratung\n            und das Coaching dieser bei der Konzeption und Umsetzung geh\xF6ren zu\n            meinen Aufgaben.",
+      content: "\n            Als Architekt bin ich f\xFCr die Definition und Weiterentwicklung der\n            Anwendungsarchitektur verantwortlich.\n            Mir obliegt die Evaluierung, Bewertung und Einf\xFChrung neuer Technologien\n            sowie die Leitung der Architektur-Gilde mit Vertretern der Scrum-Teams.\n            Ich bin erster Ansprechpartner bei Technologiekonflikten,\n            Implementationsproblemen und technischen Entscheidungen.\n            Zu meinen Aufgaben geh\xF6ren sowohl die Weiterbildung der Softwareentwickler\n            als auch die Beratung und das Coaching dieser bei der Konzeption und Umsetzung.\n            ",
       keywords: ["C#", "ASP.NET MVC", "ASP.NET WebAPI", "Open API", "OpenID Connect", "React.js", "Node.js", "GraphQL"]
     }, {
       type: "work",
@@ -21525,7 +21525,7 @@ exports.default = {
       label: "Head of Websolutions",
       from: "Juli 2012",
       to: "März 2016",
-      content: "\n            Als Head f\xFChrte ich 2 Entwicklerteams mit je 4-6 Entwicklern sowohl diziplinarisch als auch fachlich.\n            Meine Aufgaben umfassten unter anderem das gemeinsame Festlegen von Zielen f\xFCr das Team,\n            das Kommunizieren sowie das Pr\xFCfen des Erreichens dieser, das Interviewen potenzieller neuer Entwickler,\n            die Motivation der Mitarbeiter so wie der Umgang mit Konflikten.\n            ",
+      content: "\n            Als Head f\xFChrte ich zwei Entwicklerteams mit je vier bis sechs Entwicklern sowohl diziplinarisch als auch fachlich.\n            Meine Aufgaben umfassten unter anderem das gemeinsame Festlegen von Zielen f\xFCr das Team,\n            das Kommunizieren sowie das Pr\xFCfen des Erreichens dieser, das Interviewen potenzieller neuer Entwickler,\n            die Motivation der Mitarbeiter sowie der Umgang mit Konflikten.\n            ",
       keywords: ["Scrum", "CleanCode", "Führung", "Konfliktmanagement", "Fortbildung", "Interviews"]
     }, {
       type: "work",
@@ -21549,7 +21549,7 @@ exports.default = {
       label: "Senior Software Developer Teamlead",
       from: "Januar 2011",
       to: "Juni 2012",
-      content: "\n            Als Teamlead f\xFChrte ich 4 Entwickler sowohl diziplinarisch als auch fachlich. Die Aufgaben\n            beinhalteten mehrere Produkte (Kunden-Webanwendung, Administration-Anwendung, Services) und\n            umfassten den gesamten Stack von der Datenbank bis zum UI.\n            ",
+      content: "\n            Als Teamlead f\xFChrte ich vier Entwickler sowohl diziplinarisch als auch fachlich. Die Aufgaben\n            beinhalteten mehrere Produkte (Kunden-Webanwendung, Administration-Anwendung, Services) und\n            umfassten den gesamten Stack von der Datenbank bis zum UI.\n            ",
       keywords: ["Scrum", "C#", "ASP.NET MVC 3", "Microsoft SQL", "IIS", "Javascript", "jQuery"]
     }, {
       type: "work",
@@ -21566,15 +21566,15 @@ exports.default = {
     items: [{
       type: "text",
       label: "Sport",
-      content: "\n            Klettern, Badminton, Fussball, Snowboarden. Regelm\xE4\xDFige k\xF6rperliche\n            Aktivit\xE4t ist f\xFCr mich unverzichtbar um K\xF6rper und Geist in Form zu halten."
+      content: "\n            Klettern, Badminton, Fussball, Snowboarden. Regelm\xE4\xDFige k\xF6rperliche\n            Aktivit\xE4t ist f\xFCr mich unverzichtbar, um K\xF6rper und Geist in Form zu halten."
     }, {
       type: "text",
       label: "Gutes Essen",
-      content: "\n            K\xF6rperliche Anstrengung erfordert gutes Essen - oder andersherum.\n            Hierbei sch\xE4tze ich es gleicherma\xDFen ein neues Restaurant auszuprobieren\n            oder in der eigenen K\xFCche zu experimentieren"
+      content: "\n            K\xF6rperliche Anstrengung erfordert gutes Essen - oder andersherum.\n            Hierbei sch\xE4tze ich es gleicherma\xDFen, ein neues Restaurant auszuprobieren\n            oder in der eigenen K\xFCche zu experimentieren"
     }, {
       type: "text",
       label: "Reisen",
-      content: "Am liebsten mit Rucksack und Zelt dorthin wo es viel Natur und wenig Menschen gibt."
+      content: "Am liebsten mit Rucksack und Zelt dorthin, wo es viel vom Menschen m\xF6glichst unber\xFChrte Natur gibt."
     }]
   }]
 };
