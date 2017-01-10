@@ -145,7 +145,7 @@ export default {
           school: "Friedrich-Alexander-Universität Erlangen",
           graduated: "2004",
           content: `
-            Abschluss mit der Note "gut". Die Schwerpunkte waren Computergrafik,
+            Abschluss mit der Note 2,7. Die Schwerpunkte waren Computergrafik,
             Kommunikationssysteme, Datenbanksysteme und das Nebenfach Physiologie.`
         },
         {
@@ -153,7 +153,7 @@ export default {
           label: "Abitur",
           school: "Viktoria-Luise-Gymnasium",
           graduated: "1992",
-          content: `Abschluss mit der Note "sehr gut". Die Leistungsfächer waren Mathe und Physik.`
+          content: `Abschluss mit der Note 1,7. Die Leistungsfächer waren Mathe und Physik.`
         }
       ]
     },
