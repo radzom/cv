@@ -21500,13 +21500,13 @@ exports.default = {
       label: "Diplom-Informatiker ",
       school: "Friedrich-Alexander-Universität Erlangen",
       graduated: "2004",
-      content: "\n            Abschluss mit der Note \"gut\". Die Schwerpunkte waren Computergrafik,\n            Kommunikationssysteme, Datenbanksysteme und das Nebenfach Physiologie."
+      content: "\n            Abschluss mit der Note 2,7. Die Schwerpunkte waren Computergrafik,\n            Kommunikationssysteme, Datenbanksysteme und das Nebenfach Physiologie."
     }, {
       type: "education",
       label: "Abitur",
       school: "Viktoria-Luise-Gymnasium",
       graduated: "1992",
-      content: "Abschluss mit der Note \"sehr gut\". Die Leistungsf\xE4cher waren Mathe und Physik."
+      content: "Abschluss mit der Note 1,7. Die Leistungsf\xE4cher waren Mathe und Physik."
     }]
   }, {
     id: "work-history",
