@@ -71,17 +71,17 @@ export default {
           label: "Programmierkenntnisse",
           content: [
             {
+              label: "Javascript",
+              description: `
+                10+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner
+                Frameworks/Bibliotheken wie React, Vue, Angular. Gute Kenntnisse in Node, ES6, Npm,
+                Webpack und Meteor.`
+            },
+            {
               label: "C#",
               description: `
                 12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend Lösungen
                 (ASP.NET MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer).`
-            },
-            {
-              label: "Javascript",
-              description: `
-                8+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner
-                Frameworks/Bibliotheken wie React.js, Angular.js. Gute Kenntnisse in Node, ES6, Npm,
-                Bower, Gulp, Webpack, Vue und Meteor.`
             },
             {
               label: "HTML/CSS",
@@ -89,7 +89,7 @@ export default {
             },
             {
               label: "Andere Sprachen",
-              description: "C, C++, Java, Elm, Elixir."
+              description: "Clojure, C, C++, Java, Elm, Elixir."
             }
           ]
         },
@@ -104,18 +104,22 @@ export default {
                 und NoSQL (Mongo, CouchDB, Redis) Datenbanken.`
             },
             {
+              label: "Container / Clouds",
+              description: "Docker, Openshift, AWS"
+            },
+            {
               label: "Agilität",
               description: "Scrum, Kanban."
             },
             {
               label: "Testautomatisierung",
               description: `
-                8+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests
+                10+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests
                 (Selenium).`
             },
             {
               label: "Versionskontrolle",
-              description: "GIT, TFS."
+              description: "GIT (GitLab, GitHub), TFS."
             }
           ]
         },
@@ -130,6 +134,10 @@ export default {
             {
               label: "Training",
               description: "Erfahrung im Halten von internen Entwicklerschulungen, Trainings und Vorträgen."
+            },
+            {
+              label: "Opensource",
+              description: "Entwicklung eines Encyption-Layers für die LevelDB"
             }
           ]
         }
@@ -163,18 +171,33 @@ export default {
       items: [
         {
           type: "work",
+          company: "adorsys GmbH & Co. KG",
+          label: "Senior Architect",
+          from: "April 2017",
+          to: "heute",
+          content: `
+            Als Architekt helfe ich unseren Kunden bei der Auswahl, Konzeption, Entwicklung und in
+            Betriebnahme ihrer Produkte und Anwendungen.
+            Für meine Kollegen halte ich interne Trainings zur Fortbildung.
+            Desweiteren bin ich Mentor für neue Mitarbeiter und helfen ihnen schnell produktiv
+            zu werden.
+            `,
+          keywords: ["API Gateway", "Docker", "GraphQL", "REST", "Spring Boot", "Open API", "Openshift"]
+        },
+        {
+          type: "work",
           company: "HOTEL DE GmbH",
           label: "Senior Software Architect",
           from: "April 2016",
-          to: "heute",
+          to: "Februar 2017",
           content: `
-            Als Architekt bin ich für die Definition und Weiterentwicklung der
+            Als Architekt war ich für die Definition und Weiterentwicklung der
             Anwendungsarchitektur verantwortlich.
-            Mir obliegt die Evaluierung, Bewertung und Einführung neuer Technologien
+            Mir oblag die Evaluierung, Bewertung und Einführung neuer Technologien
             sowie die Leitung der Architektur-Gilde mit Vertretern der Scrum-Teams.
-            Ich bin erster Ansprechpartner bei Technologiekonflikten,
+            Ich war erster Ansprechpartner bei Technologiekonflikten,
             Implementationsproblemen und technischen Entscheidungen.
-            Zu meinen Aufgaben gehören sowohl die Weiterbildung der Softwareentwickler
+            Zu meinen Aufgaben gehörten sowohl die Weiterbildung der Softwareentwickler
             als auch die Beratung und das Coaching dieser bei der Konzeption und Umsetzung.
             `,
           keywords: ["C#", "ASP.NET MVC", "ASP.NET WebAPI", "Open API", "OpenID Connect", "React.js", "Node.js", "GraphQL"]
@@ -198,12 +221,12 @@ export default {
           company: "LapLabs UG",
           label: "Co-Founder",
           from: "November 2016",
-          to: "heute",
+          to: "Juli 2017",
           content: `
             Konzeption und Erstellung eines in Echtzeit agierenden Buchungs- und Verwaltungssystems
             für Golfclubs und Spieler. Hierfür wurde eine Webanwendung für die Golfclubs erstellt.
-            Die Entwicklung der App für Golfspieler erfolgte extern und wurde von mir technologisch
-            betreut und abgenommen.`,
+            Die Entwicklung der mobilen App für Golfspieler erfolgte extern und wurde von mir
+            technologisch betreut und abgenommen.`,
           keywords: ["Javascript", "MeteorJS", "ReactJS", "MongoDB", "Bootstrap"]
         },
         {
@@ -211,7 +234,7 @@ export default {
           company: "GolfshopDeals.de",
           label: "Co-Founder",
           from: "Oktober 2014",
-          to: "heute",
+          to: "Juli 2017",
           content: `
             Konzeption und Implementierung eines generischen Metasearchers.
             Hierfür wurden unter anderem eine Webanwendung für Kunden, eine Webanwendung zur
@@ -257,7 +280,7 @@ export default {
           type: "text",
           label: "Sport",
           content: `
-            Klettern, Badminton, Fussball, Snowboarden. Regelmäßige körperliche
+            Klettern, Badminton, Radfahren, Snowboarden. Regelmäßige körperliche
             Aktivität ist für mich unverzichtbar, um Körper und Geist in Form zu halten.`
         },
         {
@@ -271,7 +294,9 @@ export default {
         {
           type: "text",
           label: "Reisen",
-          content: `Am liebsten mit Rucksack und Zelt dorthin, wo es viel vom Menschen möglichst unberührte Natur gibt.`
+          content: `
+            Am liebsten mit Rucksack und Zelt dorthin, wo es viel vom Menschen
+            möglichst unberührte Natur gibt.`
         }
       ]
     }
