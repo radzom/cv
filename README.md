@@ -3,6 +3,7 @@
 Latests version https://radzom.github.io/cv/
 
 ## Getting things up and running
+
 - Install [Node.js](http://nodejs.org)
 
 ```
@@ -14,6 +15,7 @@ Latests version https://radzom.github.io/cv/
 ```
 
 ## CLI Commands
+
 | Befehl | Beschreibung |
 | --- | --- |
 | `npm install` | Installs server-side dependencies from npm |
