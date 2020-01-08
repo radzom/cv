@@ -24339,7 +24339,7 @@ var _components = {
 };
 
 var _reactTransformCatchErrors2 = (0, _reactTransformCatchErrors4.default)({
-  filename: '/Users/rad/Projects/cv/src/components/intro.js',
+  filename: '/Users/rad/projects/cv/src/components/intro.js',
   components: _components,
   locals: [],
   imports: [_react3.default, _redboxReact3.default]
@@ -24466,7 +24466,7 @@ var _components = {
 };
 
 var _reactTransformCatchErrors2 = (0, _reactTransformCatchErrors4.default)({
-  filename: '/Users/rad/Projects/cv/src/components/item.js',
+  filename: '/Users/rad/projects/cv/src/components/item.js',
   components: _components,
   locals: [],
   imports: [_react3.default, _redboxReact3.default]
@@ -24761,7 +24761,7 @@ var _components = {
 };
 
 var _reactTransformCatchErrors2 = (0, _reactTransformCatchErrors4.default)({
-  filename: '/Users/rad/Projects/cv/src/components/profile.js',
+  filename: '/Users/rad/projects/cv/src/components/profile.js',
   components: _components,
   locals: [],
   imports: [_react3.default, _redboxReact3.default]
@@ -24861,7 +24861,7 @@ var _components = {
 };
 
 var _reactTransformCatchErrors2 = (0, _reactTransformCatchErrors4.default)({
-  filename: '/Users/rad/Projects/cv/src/components/row.js',
+  filename: '/Users/rad/projects/cv/src/components/row.js',
   components: _components,
   locals: [],
   imports: [_react3.default, _redboxReact3.default]
@@ -24973,7 +24973,7 @@ var _components = {
 };
 
 var _reactTransformCatchErrors2 = (0, _reactTransformCatchErrors4.default)({
-  filename: '/Users/rad/Projects/cv/src/components/section.js',
+  filename: '/Users/rad/projects/cv/src/components/section.js',
   components: _components,
   locals: [],
   imports: [_react3.default, _redboxReact3.default]
@@ -25092,7 +25092,7 @@ exports.default = {
       label: "Programmierkenntnisse",
       content: [{
         label: "Javascript",
-        description: "\n                10+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner\n                Frameworks/Bibliotheken wie React, Vue, Angular. Gute Kenntnisse in Node, ES6, Npm,\n                Webpack und Meteor."
+        description: "\n                13+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner\n                Frameworks/Bibliotheken wie React, Vue, Angular. Gute Kenntnisse in Node, ES, npm,\n                Webpack, Express und Fastify."
       }, {
         label: "C#",
         description: "\n                12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend L\xF6sungen\n                (ASP.NET MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer)."
@@ -25117,7 +25117,7 @@ exports.default = {
         description: "Scrum, Kanban."
       }, {
         label: "Testautomatisierung",
-        description: "\n                10+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests\n                (Selenium)."
+        description: "\n                10+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests."
       }, {
         label: "Versionskontrolle",
         description: "GIT (GitLab, GitHub), TFS."
