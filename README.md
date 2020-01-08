@@ -14,9 +14,9 @@ Latests version https://radzom.github.io/cv/
 ```
 
 ## CLI Commands
-* npm install
-    * Installs server-side dependencies from npm
-* npm start
-    * Compiles your files, starts watching files for changes, serves static files to port 9001
-* npm run build
-    * Builds everything
+| Befehl | Beschreibung |
+| --- | --- |
+| `npm install` | Installs server-side dependencies from npm |
+| `npm start` | Compiles your files, starts watching files for changes, serves static files to port 9001 |
+| `npm run build` | Builds everything |
+| `npm run deploy` | Deploy to github pages. |

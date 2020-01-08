@@ -73,9 +73,9 @@ export default {
             {
               label: "Javascript",
               description: `
-                10+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner
-                Frameworks/Bibliotheken wie React, Vue, Angular. Gute Kenntnisse in Node, ES6, Npm,
-                Webpack und Meteor.`
+                13+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner
+                Frameworks/Bibliotheken wie React, Vue, Angular. Gute Kenntnisse in Node, ES, npm,
+                Webpack, Express und Fastify.`
             },
             {
               label: "C#",
@@ -114,8 +114,7 @@ export default {
             {
               label: "Testautomatisierung",
               description: `
-                10+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests
-                (Selenium).`
+                10+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests.`
             },
             {
               label: "Versionskontrolle",
