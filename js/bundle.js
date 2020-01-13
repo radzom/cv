@@ -25134,6 +25134,9 @@ exports.default = {
       }, {
         label: "Opensource",
         description: "Entwicklung eines Encyption-Layers für die LevelDB"
+      }, {
+        label: "Community",
+        description: "Organisator des Vue-Meetups Nürnberg"
       }]
     }]
   }, {
