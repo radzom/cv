@@ -16,7 +16,7 @@
   "dependencies": {
     "bootstrap": "^3.3.5",
     "font-awesome": "^4.4.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "object.assign": "^4.0.1",
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
