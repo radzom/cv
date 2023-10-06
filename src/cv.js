@@ -21,7 +21,7 @@ export default {
         {
           type: "text",
           label: "Geboren",
-          content: "18. Februar 1973 - Berlin, Deutschland"
+          content: "Im Februar 1973 - Berlin, Deutschland"
         },
         {
           type: "text",
@@ -32,6 +32,10 @@ export default {
           type: "links",
           label: "Finde mich auf",
           content: [
+            {
+              type: "linkedin",
+              url: "https://www.linkedin.com/in/gunnar-radzom-b9a90125a/"
+            },
             {
               type: "xing",
               url: "https://www.xing.com/profile/Gunnar_Radzom"
@@ -73,15 +77,20 @@ export default {
             {
               label: "Javascript",
               description: `
-                13+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner
-                Frameworks/Bibliotheken wie React, Vue, Angular. Gute Kenntnisse in Node, ES, npm,
-                Webpack, Express und Fastify.`
+                18+ Jahre Erfahrung in der Entwicklung von Webanwendungen unter Verwendung moderner
+                Frameworks/Bibliotheken wie React, Vue, Angular, Svelte. Sehr gute Kenntnisse in Node, ES, npm,
+                Express und Fastify.`
             },
             {
               label: "C#",
               description: `
                 12+ Jahre Erfahrung mit der Entwicklung von .NET Web Anwendungen und Backend Lösungen
                 (ASP.NET MVC, WebAPI, AutoFac, StructureMap, Swagger, IdentityServer).`
+            },
+            {
+              label: "Java",
+              description: `
+                6+ Jahre Erfahrung (Spring Boot, Maven)`
             },
             {
               label: "HTML/CSS",
@@ -101,7 +110,7 @@ export default {
               label: "Datenbanken",
               description: `
                 Langjährige Erfahrung mit unterschiedlichen SQL (MicroSoft, MySQL, Postgres)
-                und NoSQL (Mongo, CouchDB, Redis) Datenbanken.`
+                und NoSQL (Mongo, CouchDB, Redis) Datenbanken. Kenntnisse in Datalog.`
             },
             {
               label: "Container / Clouds",
@@ -114,11 +123,33 @@ export default {
             {
               label: "Testautomatisierung",
               description: `
-                10+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests.`
+                16+ Jahre Erfahrung in Testautomatisierung inklusive TDD, BDD und Integrationstests.`
             },
             {
               label: "Versionskontrolle",
-              description: "GIT (GitLab, GitHub), TFS."
+              description: "GitLab, GitHub"
+            }
+          ]
+        },
+        {
+          type: "list",
+          label: "Zertifikate",
+          content: [
+            {
+              label: "ISAQB Advanced Level",
+              description: "Die Module DDD, FLEX und FUNAR wurden erfolgreich abgeschlossen"
+            },
+            {
+              label: "ISAQB Foundation Level",
+              description: "Erfolgreich abgeschlossen"
+            },
+            {
+              label: "Apache Kafka",
+              description: "Confluent Developer Skills for Building Apache Kafka erfolgreich abgeschlossen"
+            },
+            {
+              label: "diverse Schulungen",
+              description: "Leadership, Angular, .NET, FP"
             }
           ]
         },
@@ -132,11 +163,11 @@ export default {
             },
             {
               label: "Training",
-              description: "Erfahrung im Halten von internen Entwicklerschulungen, Trainings und Vorträgen."
+              description: "10+ Jahre Erfahrung im Halten von internen Entwicklerschulungen, Trainings und Vorträgen."
             },
             {
               label: "Opensource",
-              description: "Entwicklung eines Encyption-Layers für die LevelDB"
+              description: "Entwicklung eines Encryption-Layers für die LevelDB"
             }
           ]
         }
@@ -152,7 +183,7 @@ export default {
           school: "Friedrich-Alexander-Universität Erlangen",
           graduated: "2004",
           content: `
-            Abschluss mit der Note 2,7. Die Schwerpunkte waren Computergrafik,
+            Die Schwerpunkte waren Computergrafik,
             Kommunikationssysteme, Datenbanksysteme und das Nebenfach Physiologie.`
         },
         {
@@ -160,7 +191,7 @@ export default {
           label: "Abitur",
           school: "Viktoria-Luise-Gymnasium",
           graduated: "1992",
-          content: `Abschluss mit der Note 1,7. Die Leistungsfächer waren Mathe und Physik.`
+          content: `Die Leistungsfächer waren Mathe und Physik.`
         }
       ]
     },
@@ -168,6 +199,18 @@ export default {
       id: "work-history",
       title: "Berufserfahrung",
       items: [
+        {
+          type: "work",
+          company: "adorsys GmbH & Co. KG",
+          label: "Chair-Co-lead Software Engineering",
+          from: "März 2022",
+          to: "heute",
+          content: `
+            Als Chair-Co-Lead waren unter anderem meine Aufgaben die Erstellung von Karrierepfaden für unsere
+            Entwickler, die Einführung eines Tech-Radars, der Aufbau eines Architekturboards und die Gestaltung
+            der Lead-Developer Laufbahn.`,
+          keywords: ["Enabling", "Leadership", "Cloud Native", "Confluence", "Miro"]
+        },
         {
           type: "work",
           company: "adorsys GmbH & Co. KG",
@@ -279,7 +322,7 @@ export default {
           type: "text",
           label: "Sport",
           content: `
-            Klettern, Badminton, Radfahren, Snowboarden. Regelmäßige körperliche
+            Tennis, Klettern, Radfahren. Regelmäßige körperliche
             Aktivität ist für mich unverzichtbar, um Körper und Geist in Form zu halten.`
         },
         {
@@ -294,8 +337,7 @@ export default {
           type: "text",
           label: "Reisen",
           content: `
-            Am liebsten mit Rucksack und Zelt dorthin, wo es viel vom Menschen
-            möglichst unberührte Natur gibt.`
+            Am liebsten mit Rucksack und Zelt in die Natur nach Grönland, Schottland, Skandinavien oder Neuseeland.`
         }
       ]
     }

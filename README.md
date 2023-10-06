@@ -5,6 +5,7 @@ Latests version https://radzom.github.io/cv/
 ## Getting things up and running
 
 - Install [Node.js](http://nodejs.org)
+- It needs node 11 and hence npm 7
 
 ```
  git clone git@github.com:radzom/cv.git
