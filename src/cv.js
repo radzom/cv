@@ -98,7 +98,7 @@ export default {
             },
             {
               label: "Andere Sprachen",
-              description: "Clojure, C, C++, Java, Elm, Elixir."
+              description: "Clojure, C, C++, Elm, Elixir."
             }
           ]
         },
@@ -221,10 +221,12 @@ export default {
             Als Architekt helfe ich unseren Kunden bei der Auswahl, Konzeption, Entwicklung und in
             Betriebnahme ihrer Produkte und Anwendungen.
             Für meine Kollegen halte ich interne Trainings zur Fortbildung.
-            Desweiteren bin ich Mentor für neue Mitarbeiter und helfen ihnen schnell produktiv
-            zu werden.
+            Bei folgende Projekten konnte ich unseren Kunden helfen.
+            Aufbau einer Anwendung zur Einkommensteuererklärung für Endandwender (inkl. multiplatform 
+            Frontend Clients und Backends mit Anbindung an die Services des Finanzamts).
+            Beratung zur Auswahl einer API-Management Lösung für eine Bank (inkl. Testinstallation zur Verprobung).
             `,
-          keywords: ["API Gateway", "Docker", "GraphQL", "REST", "Spring Boot", "Open API", "Openshift"]
+          keywords: ["API Gateway", "Kafka", "Docker", "GraphQL", "REST", "Spring Boot", "Open API", "Openshift"]
         },
         {
           type: "work",
