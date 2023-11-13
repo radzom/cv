@@ -25107,7 +25107,7 @@ exports.default = {
         description: "Sehr gutes Verständnis von HTML 5 and CSS 3."
       }, {
         label: "Andere Sprachen",
-        description: "Clojure, C, C++, Java, Elm, Elixir."
+        description: "Clojure, C, C++, Elm, Elixir."
       }]
     }, {
       type: "list",
@@ -25191,8 +25191,8 @@ exports.default = {
       label: "Senior Architect",
       from: "April 2017",
       to: "heute",
-      content: "\n            Als Architekt helfe ich unseren Kunden bei der Auswahl, Konzeption, Entwicklung und in\n            Betriebnahme ihrer Produkte und Anwendungen.\n            F\xFCr meine Kollegen halte ich interne Trainings zur Fortbildung.\n            Desweiteren bin ich Mentor f\xFCr neue Mitarbeiter und helfen ihnen schnell produktiv\n            zu werden.\n            ",
-      keywords: ["API Gateway", "Docker", "GraphQL", "REST", "Spring Boot", "Open API", "Openshift"]
+      content: "\n            Als Architekt helfe ich unseren Kunden bei der Auswahl, Konzeption, Entwicklung und in\n            Betriebnahme ihrer Produkte und Anwendungen.\n            F\xFCr meine Kollegen halte ich interne Trainings zur Fortbildung.\n            Bei folgende Projekten konnte ich unseren Kunden helfen.\n            Aufbau einer Anwendung zur Einkommensteuererkl\xE4rung f\xFCr Endandwender (inkl. multiplatform \n            Frontend Clients und Backends mit Anbindung an die Services des Finanzamts).\n            Beratung zur Auswahl einer API-Management L\xF6sung f\xFCr eine Bank (inkl. Testinstallation zur Verprobung).\n            ",
+      keywords: ["API Gateway", "Kafka", "Docker", "GraphQL", "REST", "Spring Boot", "Open API", "Openshift"]
     }, {
       type: "work",
       company: "HOTEL DE GmbH",
